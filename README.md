@@ -1,5 +1,6 @@
 
 # Spotify SQL Data Analysis Project
+<img width="221" height="148" alt="download" src="https://github.com/user-attachments/assets/14cebf02-519d-4ab0-9f9c-9544d0860289" />
 
 ## Overview
 This project analyzes a **Spotify dataset** with over 20,000 tracks using SQL to explore:
